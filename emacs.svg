@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg12901"
+   inkscape:export-xdpi="54.44"
+   inkscape:export-ydpi="54.44"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   sodipodi:docname="color.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12903"
+     pagecolor="#ffffff"
+     bordercolor="#555555"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.75187991"
+     inkscape:cx="341.1449"
+     inkscape:cy="561.92484"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+    <g
+      inkscape:label="Warstwa 1"
+      inkscape:groupmode="layer"
+      style="stroke:#000000;stroke-width:0.264583;fill-opacity:1"
+      inkscape:export-xdpi="54.44"
+      inkscape:export-ydpi="54.44"
+      id="layer1">
+
+        <circle style="fill:#0000ff" cx="10" cy="005" r="4" inkscape:export-filename="/home/grzes/img/emacs/blue.png"/>
+        <circle style="fill:#1e90ff" cx="10" cy="015" r="4" inkscape:export-filename="/home/grzes/img/emacs/dodger-blue.png"/>
+        <circle style="fill:#00ffff" cx="10" cy="025" r="4" inkscape:export-filename="/home/grzes/img/emacs/cyan.png"/>
+        <circle style="fill:#228b22" cx="10" cy="035" r="4" inkscape:export-filename="/home/grzes/img/emacs/forest-green.png"/>
+        <circle style="fill:#00ff00" cx="10" cy="045" r="4" inkscape:export-filename="/home/grzes/img/emacs/green.png"/>
+        <circle style="fill:#ffff00" cx="10" cy="055" r="4" inkscape:export-filename="/home/grzes/img/emacs/yellow.png"/>
+        <circle style="fill:#ff8c00" cx="10" cy="065" r="4" inkscape:export-filename="/home/grzes/img/emacs/dark-orange.png"/>
+        <circle style="fill:#8b4513" cx="10" cy="075" r="4" inkscape:export-filename="/home/grzes/img/emacs/saddle-brown.png"/>
+        <circle style="fill:#ff0000" cx="10" cy="085" r="4" inkscape:export-filename="/home/grzes/img/emacs/red.png"/>
+        <circle style="fill:#ff00ff" cx="10" cy="095" r="4" inkscape:export-filename="/home/grzes/img/emacs/magenta.png"/>
+        <circle style="fill:#9400d3" cx="10" cy="105" r="4" inkscape:export-filename="/home/grzes/img/emacs/dark-violet.png"/>
+
+        <circle inkscape:export-filename="/home/grzes/img/emacs/default.png"
+                style="stroke:#000000;fill-opacity:0" cx="30" cy="005" r="4"/>
+
+
+        <g inkscape:export-filename="/home/grzes/img/emacs/bold.png">
+          <text style="text-anchor:middle;font-size:6" x="30" y="17">B</text>
+          <circle style="stroke:#000000;fill-opacity:0" cx="30" cy="015" r="4"/>
+        </g>
+
+        <g inkscape:export-filename="/home/grzes/img/emacs/italic.png">
+          <text style="text-anchor:middle;font-size:6;font-style:italic" x="29.50" y="27">I</text>
+          <circle style="stroke:#000000;fill-opacity:0" cx="30" cy="025" r="4"/>
+        </g>
+
+        <g inkscape:export-filename="/home/grzes/img/emacs/lens.png">
+          <line style="stroke:#000000;fill-opacity:0" x1="26" x2="29" y1="39" y2="36">I</line>
+          <circle style="stroke:#000000;fill-opacity:0" cx="31" cy="034" r="3"/>
+        </g>
+
+        <g inkscape:export-filename="/home/grzes/img/emacs/underline.png">
+            <text style="text-anchor:middle;font-size:6;font-style:normal;text-decoration:underline" x="30" y="46.25">u</text>
+          <circle style="stroke:#000000;fill-opacity:0" cx="30" cy="045" r="4"/>
+        </g>
+
+        <g inkscape:export-filename="/home/grzes/img/emacs/half.png">
+            <text style="text-anchor:middle;font-size:4" x="30" y="56.5">½</text>
+          <circle style="stroke:#000000;fill-opacity:0" cx="30" cy="055" r="4"/>
+        </g>
+
+        <g inkscape:export-filename="/home/grzes/img/emacs/proba.png">
+          <circle style="stroke:#000000;fill-opacity:0" cx="30" cy="095" r="1"/>
+          <circle style="stroke:#000000;fill-opacity:0" cx="30" cy="095" r="2"/>
+          <circle style="stroke:#000000;fill-opacity:0" cx="30" cy="095" r="3"/>
+          <circle style="stroke:#000000;fill-opacity:0" cx="30" cy="095" r="4"/>
+        </g>
+
+
+  </g>
+</svg>
