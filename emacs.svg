@@ -44,15 +44,20 @@
 
         <circle style="fill:#0000ff" cx="10" cy="005" r="4" inkscape:export-filename="/home/grzes/img/emacs/blue.png"/>
         <circle style="fill:#1e90ff" cx="10" cy="015" r="4" inkscape:export-filename="/home/grzes/img/emacs/dodger-blue.png"/>
-        <circle style="fill:#00ffff" cx="10" cy="025" r="4" inkscape:export-filename="/home/grzes/img/emacs/cyan.png"/>
-        <circle style="fill:#228b22" cx="10" cy="035" r="4" inkscape:export-filename="/home/grzes/img/emacs/forest-green.png"/>
-        <circle style="fill:#00ff00" cx="10" cy="045" r="4" inkscape:export-filename="/home/grzes/img/emacs/green.png"/>
-        <circle style="fill:#ffff00" cx="10" cy="055" r="4" inkscape:export-filename="/home/grzes/img/emacs/yellow.png"/>
-        <circle style="fill:#ff8c00" cx="10" cy="065" r="4" inkscape:export-filename="/home/grzes/img/emacs/dark-orange.png"/>
-        <circle style="fill:#8b4513" cx="10" cy="075" r="4" inkscape:export-filename="/home/grzes/img/emacs/saddle-brown.png"/>
-        <circle style="fill:#ff0000" cx="10" cy="085" r="4" inkscape:export-filename="/home/grzes/img/emacs/red.png"/>
-        <circle style="fill:#ff00ff" cx="10" cy="095" r="4" inkscape:export-filename="/home/grzes/img/emacs/magenta.png"/>
-        <circle style="fill:#9400d3" cx="10" cy="105" r="4" inkscape:export-filename="/home/grzes/img/emacs/dark-violet.png"/>
+        <circle style="fill:#5f9ea0" cx="10" cy="025" r="4" inkscape:export-filename="/home/grzes/img/emacs/cadet-blue.png"/>
+        <circle style="fill:#00ffff" cx="10" cy="035" r="4" inkscape:export-filename="/home/grzes/img/emacs/cyan.png"/>
+        <circle style="fill:#228b22" cx="10" cy="045" r="4" inkscape:export-filename="/home/grzes/img/emacs/forest-green.png"/>
+        <circle style="fill:#00ff00" cx="10" cy="055" r="4" inkscape:export-filename="/home/grzes/img/emacs/green.png"/>
+        <circle style="fill:#9acd32" cx="10" cy="065" r="4" inkscape:export-filename="/home/grzes/img/emacs/yellow-green.png"/>
+        <circle style="fill:#ffff00" cx="10" cy="075" r="4" inkscape:export-filename="/home/grzes/img/emacs/yellow.png"/>
+        <circle style="fill:#bdb76b" cx="10" cy="085" r="4" inkscape:export-filename="/home/grzes/img/emacs/dark-khaki.png"/>
+        <circle style="fill:#ffa500" cx="10" cy="095" r="4" inkscape:export-filename="/home/grzes/img/emacs/orange.png"/>
+        <circle style="fill:#ff6347" cx="10" cy="105" r="4" inkscape:export-filename="/home/grzes/img/emacs/tomato.png"/>
+        <circle style="fill:#8b4513" cx="10" cy="115" r="4" inkscape:export-filename="/home/grzes/img/emacs/saddle-brown.png"/>
+        <circle style="fill:#b22222" cx="10" cy="125" r="4" inkscape:export-filename="/home/grzes/img/emacs/firebrick.png"/>
+        <circle style="fill:#ff0000" cx="10" cy="135" r="4" inkscape:export-filename="/home/grzes/img/emacs/red.png"/>
+        <circle style="fill:#ff00ff" cx="10" cy="145" r="4" inkscape:export-filename="/home/grzes/img/emacs/magenta.png"/>
+        <circle style="fill:#9400d3" cx="10" cy="155" r="4" inkscape:export-filename="/home/grzes/img/emacs/dark-violet.png"/>
 
         <circle inkscape:export-filename="/home/grzes/img/emacs/default.png"
                 style="stroke:#000000;fill-opacity:0" cx="30" cy="005" r="4"/>
